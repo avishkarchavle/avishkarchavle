@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @avishkarchavle
 - 👀 I’m interested in web+app development and logical coding problems
-- 🌱 I’m currently learning c++ and html,css,js
+- 🌱 I’m currently learning c++,python,java,c,html,css,js
 - 📫 How to reach me - contact number: 8275895425 , insta id : __godofthunderthor__
 
 <!---
