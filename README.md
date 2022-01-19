@@ -1,9 +1,11 @@
-- 👋 Hi, I’m @avishkarchavle
-- 👀 I’m interested in web+app development and logical coding problems
-- 🌱 I’m currently learning c++,python,java,c,html,css,js
-- 📫 How to reach me - contact number: 8275895425 , insta id : iavishkar_
 
-<!---
-avishkarchavle/avishkarchavle is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=avishkarchavle&show_icons=true&theme=aura)<br>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=avishkarchavle&layout=compact&theme=aura)
+ 
+## 📞 Contact Me 
+* Email: arnzut1324@gmail.com
+* [@Linkedin](https://www.linkedin.com/in/avishkar-chavle-37b7a8215/)
+* [@instagram](https://www.instagram.com/iavishkar_/)
